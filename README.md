@@ -1,6 +1,4 @@
-# SaludFetal---ML
-
-# Proyecto de Predicción de Salud Fetal
+# Proyecto de Predicción de Estado Fetal
 
 Este repositorio contiene el análisis y modelo predictivo aplicado al dataset de monitoreo fetal.
 
