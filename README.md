@@ -22,10 +22,4 @@ Se utilizaron datos de monitoreo fetal, incluyendo:
 - Frecuencia cardíaca basal
 - Variabilidad
 - Desaceleraciones
-- Otros parámetros clínicos
-
-## Cómo ejecutar
-
-1. Descargar el archivo `.ipynb`.
-2. Abrirlo en Google Colab o Jupyter Notebook.
-3. Ejecutar las celdas en orden.
+- Otros parámetros clínico
