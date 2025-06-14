@@ -17,7 +17,7 @@ Se realizó:
 
 ## Dataset
 
-El dataset se obtuvo de la base de datos de Kaggle con link :https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
+El dataset se obtuvo de la base de datos de Kaggle con link :https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification,
 Se utilizaron datos de monitoreo fetal, incluyendo:
 - Frecuencia cardíaca basal
 - Variabilidad
